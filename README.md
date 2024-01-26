@@ -2,7 +2,7 @@
 ![](http://github-readme-streak-stats.herokuapp.com?user=KayaErtug&theme=dark&background=000000)
 ![](https://github.com/KayaErtug/KayaErtug/raw/main/WEBP/right.webp)
 
-![Snake animation](https://github.com/KayaErtug/KayaErtug/blob/main/github-contribution-grid-snake.svg)
+
 
 
 
