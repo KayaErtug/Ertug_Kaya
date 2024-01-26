@@ -1,6 +1,7 @@
-![](https://github.com/hanzelkaraagac/hanzelkaraagac/raw/main/WEBP/left.webp)
-![](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000)
-![](https://github.com/hanzelkaraagac/hanzelkaraagac/raw/main/WEBP/right.webp)
+![](https://github.com/KayaErtug/KayaErtug/raw/main/WEBP/left.webp)
+![](http://github-readme-streak-stats.herokuapp.com?user=KayaErtug&theme=dark&background=000000)
+![](https://github.com/KayaErtug/KayaErtug/raw/main/WEBP/right.webp)
+
 
 
 
